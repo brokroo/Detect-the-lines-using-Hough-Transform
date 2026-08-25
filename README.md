@@ -25,6 +25,10 @@ To implement a basic lane detection pipeline using OpenCV by completing missing 
 * OpenCV (cv2)
 * NumPy
 * Matplotlib
+  ##  Developed By
+
+  **Name:** SANJITH R
+ **Register No:** 212223230191
 
 ---
 
@@ -214,5 +218,5 @@ Thus, the lane detection pipeline is successfully implemented by completing the 
 
 ##  Developed By
 
-* **Name:** ELJAA SAM S C
-* **Register No:** 212225040085
+* **Name:** SANJITH R
+* **Register No:** 212223230191
